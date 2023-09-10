@@ -1,8 +1,8 @@
-[![Banner do Readme](https://github.com/AninhaPardini/images-for-github/blob/main/Aninha%20Readme%20banner.png?raw=true)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-luiza-pardini-a55746214/)
-[![Discord]( https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.gg/yhMg3qVV)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://www.discord.com/in/aninhapardini/)
-[![Gmail](https://img.shields.io/badge/aninhapardini.contato@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](aninhapardini.contato@gmail.com)
+![Banner do Readme](https://github.com/AninhaPardini/images-for-github/blob/main/Aninha%20Readme%20banner.png?raw=true)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-luiza-pardini-a55746214/)
+![Discord]( https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.gg/yhMg3qVV)
+![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://www.discord.com/in/aninhapardini/)
+![Gmail](https://img.shields.io/badge/aninhapardini.contato@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](aninhapardini.contato@gmail.com)
 ----
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AninhaPardini&theme=transparent&bg_color=0001&border_color=FFF&show_icons=true&icon_color=FD7999&title_color=FD7999&text_color=FFF)
