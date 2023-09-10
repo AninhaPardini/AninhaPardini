@@ -1,4 +1,4 @@
-![Banner do Readme]([https://raw.githubusercontent.com/AninhaPardini/images-for-github/main/Aninha%20Readme%20banner.png?token=GHSAT0AAAAAACGFH5SABQVWNQ4NHLHXM6F6ZHOMC5Q](https://raw.githubusercontent.com/AninhaPardini/images-for-github/main/Aninha%20Readme%20banner.png?token=GHSAT0AAAAAACGFH5SA23PUCQPUWAHCIY7AZH5FTLQ))
+![Banner do Readme](https://raw.githubusercontent.com/AninhaPardini/images-for-github/main/Aninha%20Readme%20banner.png?token=GHSAT0AAAAAACGFH5SABQVWNQ4NHLHXM6F6ZHOMC5Q](https://raw.githubusercontent.com/AninhaPardini/images-for-github/main/Aninha%20Readme%20banner.png?token=GHSAT0AAAAAACGFH5SA23PUCQPUWAHCIY7AZH5FTLQ)](https://github.com/AninhaPardini/images-for-github/blob/main/Aninha%20Readme%20banner.png?raw=true)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-luiza-pardini-a55746214/)
 [![Discord]( https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.gg/yhMg3qVV)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://www.discord.com/in/aninhapardini/)
@@ -6,6 +6,7 @@
 ----
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AninhaPardini&theme=transparent&bg_color=0001&border_color=FFF&show_icons=true&icon_color=FD7999&title_color=FD7999&text_color=FFF)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 ### ⭐ Meus pontos fortes
 
