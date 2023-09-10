@@ -6,7 +6,7 @@
 ----
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AninhaPardini&theme=transparent&bg_color=0001&border_color=FFF&show_icons=true&icon_color=FD7999&title_color=FD7999&text_color=FFF)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AninhaPardini)](https://git.io/streak-stats)
 
 ### ⭐ Meus pontos fortes
 
