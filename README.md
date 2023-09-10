@@ -5,7 +5,7 @@
 [![Gmail](https://img.shields.io/badge/aninhapardini.contato@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](aninhapardini.contato@gmail.com)
 ----
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AninhaPardini&theme=transparent&card_width=395&bg_color=0001&border_color=FFF&show_icons=true&icon_color=FD7999&title_color=FD7999&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AninhaPardini&theme=transparent&card_width=395px&bg_color=0001&border_color=FFF&show_icons=true&icon_color=FD7999&title_color=FD7999&text_color=FFF)
 [![GitHub Streak](https://streak-stats.demolab.com?user=AninhaPardini&theme=transparent&card_width=430&currStreakNum=FD7999&stroke=FD7999&fire=FD7999&sideNums=FD7999&ring=FD7999&currStreakLabel=FD7999&dates=EBCBDF&sideLabels=FD7999)](https://git.io/streak-stats)
 ### ⭐ Meus pontos fortes
 
