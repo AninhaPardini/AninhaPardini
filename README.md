@@ -19,7 +19,8 @@
 |  Interpessoalidade|  Elaborar apresentações   |
 |  Empatia          |  Dominio no pacote office |
 
-### 🚀 Minhas linguagens mais usadas
+<div style="display: flex">
+  ### 🚀 Minhas linguagens mais usadas
 
 ![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AninhaPardini&layout=compact&bg_color=0001&border_color=FFF&title_color=FD7999&text_color=FFF)
 
@@ -46,3 +47,5 @@ Dentre meus estudos autodidata dentro do Youtube, imersões de escolas como Alur
 ![Git](https://img.shields.io/badge/Git-000?style=flat&logo=git)
 ![Linux](https://img.shields.io/badge/Linux-000?style=flat&logo=linux)
 ![Docker](https://img.shields.io/badge/Docker-000?style=flat&logo=docker)
+
+</div>
