@@ -12,7 +12,7 @@ I currently work at Warlocks Tech [WARLOCKS](https://warlocks.tech/)
 
 I'm learning at the moment **Angular, ReactJS, Java and Database**
 
-### ⭐ Meus pontos fortes
+### ⭐ Soft skilss
 
 |    Soft skills    |        Liderança          |
 |-------------------|---------------------------|
@@ -25,7 +25,7 @@ I'm learning at the moment **Angular, ReactJS, Java and Database**
 |  Empatia          |  Dominio no pacote office |
 
 
-## 🏗️ Principais repositórios
+## 🏗️ Main repositories
 
 [![API DE FILMES](https://img.shields.io/badge/API_DE_ARQUIVOS_MP4-000?style=flat&logo=nestjs&color=E0234E)](https://github.com/AninhaPardini/nest10-api)
 [![BOT DE DISCORD](https://img.shields.io/badge/BOT_DE_DISCORD-000?style=flat&logo=javascript&logoColor=FFFF&color=7185CA)](https://github.com/AninhaPardini/BotEmbedGinga)
@@ -37,7 +37,7 @@ I'm learning at the moment **Angular, ReactJS, Java and Database**
 ![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AninhaPardini&layout=compact&bg_color=0001&border_color=FFF&title_color=FD7999&text_color=FFF)
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=AninhaPardini&theme=transparent&card_width=430&currStreakNum=FD7999&stroke=FD7999&fire=FD7999&sideNums=FD7999&ring=FD7999&currStreakLabel=FD7999&dates=EBCBDF&sideLabels=FD7999)](https://git.io/streak-stats) -->
 
-## 💻 Todas as linguagens e ferramentas
+## 💻 All languages and tools
 
 Among my self-taught studies within Youtube, immersions of schools such as Alura and rocketseat, CRUD courses, even experience within the company that I work with backend and college that I study.
 
