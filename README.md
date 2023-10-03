@@ -12,7 +12,7 @@ I currently work at Warlocks Tech [WARLOCKS](https://warlocks.tech/)
 
 I'm learning at the moment **Angular, ReactJS, Java and Database**
 
-### ⭐ Soft skilss
+### ⭐ Soft skills
 
 |    Soft skills    |        Liderança          |
 |-------------------|---------------------------|
