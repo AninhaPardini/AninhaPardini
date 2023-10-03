@@ -5,7 +5,7 @@
 [![Gmail](https://img.shields.io/badge/aninhapardini.contato@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](aninhapardini.contato@gmail.com)
 ----
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AninhaPardini&theme=transparent&bg_color=0001&border_color=FFF&show_icons=true&icon_color=FD7999&title_color=FD7999&text_color=FFF&card_width=300)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AninhaPardini&theme=transparent&bg_color=0001&border_color=FFF&show_icons=true&icon_color=FD7999&title_color=FD7999&text_color=FFF&card_width=280)
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=AninhaPardini&theme=transparent&card_width=430&currStreakNum=FD7999&stroke=FD7999&fire=FD7999&sideNums=FD7999&ring=FD7999&currStreakLabel=FD7999&dates=EBCBDF&sideLabels=FD7999)](https://git.io/streak-stats) -->
 ### ⭐ Meus pontos fortes
 
@@ -24,13 +24,13 @@
 
 ![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AninhaPardini&layout=compact&bg_color=0001&border_color=FFF&title_color=FD7999&text_color=FFF)
 
-## Principais repositórios
+## 🏗️ Principais repositórios
 
 [![API DE FILMES](https://img.shields.io/badge/API_DE_ARQUIVOS_MP4-000?style=flat&logo=nestjs&color=E0234E)](https://github.com/AninhaPardini/nest10-api)
 [![BOT DE DISCORD](https://img.shields.io/badge/BOT_DE_DISCORD-000?style=flat&logo=javascript&logoColor=FFFF&color=7185CA)](https://github.com/AninhaPardini/BotEmbedGinga)
 [![DAILY DIET](https://img.shields.io/badge/DAILY_DIET-000?style=flat&logo=node.js&color=344F24)](https://github.com/AninhaPardini/Daily-Diet-Project)
 
-## Todas as linguagens e ferramentas
+## 💻 Todas as linguagens e ferramentas
 
 Dentre meus estudos autodidata dentro do Youtube, imersões de escolas como Alura e rocketseat, cursos de CRUD, até experiência dentro da empresa que trabalho com backend e faculdade que estudo.
 
