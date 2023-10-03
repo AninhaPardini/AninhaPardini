@@ -20,7 +20,7 @@
 |  Empatia          |  Dominio no pacote office |
 
 <div style="display: flex">
-  ### 🚀 Minhas linguagens mais usadas
+  <h1>🚀 Minhas linguagens mais usadas</h1> 
 
 ![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AninhaPardini&layout=compact&bg_color=0001&border_color=FFF&title_color=FD7999&text_color=FFF)
 
