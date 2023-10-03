@@ -3,6 +3,7 @@
 [![Discord]( https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yhMg3qVV)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.discord.com/in/aninhapardini/)
 [![Gmail](https://img.shields.io/badge/aninhapardini.contato@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](aninhapardini.contato@gmail.com)
+[![Medium Badge](https://img.shields.io/badge/-@natansl-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@natansl/)](https://medium.com/@aninhapardini.contato)
 ----
 
 ## ⚡ Github stats
