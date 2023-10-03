@@ -6,13 +6,13 @@
 [![Medium Badge](https://img.shields.io/badge/-@aninhapardini.contato-03a57a?style=for-the-badge&labelColor=black&logo=Medium&link=https://medium.com/@natansl/)](https://medium.com/@aninhapardini.contato)
 ----
 
-## ⚡ Github stats
+<h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Natanael</h1>
+<p align = "justify">Front-end Developer, Coffee lover, Javascript and SPA fan, Performance curious, @angular expert. Currently in love with RxJS and Reactive Programming.</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AninhaPardini&theme=transparent&bg_color=0001&border_color=FFF&show_icons=true&icon_color=FD7999&title_color=FD7999&text_color=FFF)
-![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AninhaPardini&layout=compact&bg_color=0001&border_color=FFF&title_color=FD7999&text_color=FFF)
+I currently work at Warlocks Tech [WARLOCKS](https://warlocks.tech/)
 
+I'm learning at the moment **Angular, ReactJS, Java e Banco de Dados**
 
-<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=AninhaPardini&theme=transparent&card_width=430&currStreakNum=FD7999&stroke=FD7999&fire=FD7999&sideNums=FD7999&ring=FD7999&currStreakLabel=FD7999&dates=EBCBDF&sideLabels=FD7999)](https://git.io/streak-stats) -->
 ### ⭐ Meus pontos fortes
 
 |    Soft skills    |        Liderança          |
@@ -32,9 +32,15 @@
 [![BOT DE DISCORD](https://img.shields.io/badge/BOT_DE_DISCORD-000?style=flat&logo=javascript&logoColor=FFFF&color=7185CA)](https://github.com/AninhaPardini/BotEmbedGinga)
 [![DAILY DIET](https://img.shields.io/badge/DAILY_DIET-000?style=flat&logo=node.js&color=344F24)](https://github.com/AninhaPardini/Daily-Diet-Project)
 
+## ⚡ Github stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AninhaPardini&theme=transparent&bg_color=0001&border_color=FFF&show_icons=true&icon_color=FD7999&title_color=FD7999&text_color=FFF)
+![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AninhaPardini&layout=compact&bg_color=0001&border_color=FFF&title_color=FD7999&text_color=FFF)
+[![GitHub Streak](https://streak-stats.demolab.com?user=AninhaPardini&theme=transparent&card_width=430&currStreakNum=FD7999&stroke=FD7999&fire=FD7999&sideNums=FD7999&ring=FD7999&currStreakLabel=FD7999&dates=EBCBDF&sideLabels=FD7999)](https://git.io/streak-stats)
+
 ## 💻 Todas as linguagens e ferramentas
 
-Dentre meus estudos autodidata dentro do Youtube, imersões de escolas como Alura e rocketseat, cursos de CRUD, até experiência dentro da empresa que trabalho com backend e faculdade que estudo.
+Among my self-taught studies within Youtube, immersions of schools such as Alura and rocketseat, CRUD courses, even experience within the company that I work with backend and college that I study.
 
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=flat&logo=css3&logoColor=264CE4)
