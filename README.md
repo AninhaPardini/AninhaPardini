@@ -1,4 +1,4 @@
-![Banner do Readme](https://raw.githubusercontent.com/AninhaPardini/images-for-github/main/banner%20readme.png?token=GHSAT0AAAAAACHUXMTQ5L7XJIAJHCZ3UIYGZIZ32CQ)
+![Banner do Readme](https://github.com/AninhaPardini/images-for-github/blob/main/banner%20readme.png?raw=true)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-luiza-pardini-a55746214/)
 [![Discord]( https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yhMg3qVV)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.discord.com/in/aninhapardini/)
@@ -19,8 +19,8 @@
 |  Interpessoalidade|  Elaborar apresentações   |
 |  Empatia          |  Dominio no pacote office |
 
-<div style="display: flex">
-  <h3>🚀 Minhas linguagens mais usadas</h3> 
+
+### 🚀 Minhas linguagens mais usadas
 
 ![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AninhaPardini&layout=compact&bg_color=0001&border_color=FFF&title_color=FD7999&text_color=FFF)
 
@@ -48,4 +48,4 @@ Dentre meus estudos autodidata dentro do Youtube, imersões de escolas como Alur
 ![Linux](https://img.shields.io/badge/Linux-000?style=flat&logo=linux)
 ![Docker](https://img.shields.io/badge/Docker-000?style=flat&logo=docker)
 
-</div>
+
