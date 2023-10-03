@@ -6,12 +6,11 @@
 [![Medium Badge](https://img.shields.io/badge/-@aninhapardini.contato-03a57a?style=for-the-badge&labelColor=black&logo=Medium&link=https://medium.com/@natansl/)](https://medium.com/@aninhapardini.contato)
 ----
 
-<h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Natanael</h1>
-<p align = "justify">Front-end Developer, Coffee lover, Javascript and SPA fan, Performance curious, @angular expert. Currently in love with RxJS and Reactive Programming.</p>
+<p align = "justify">Fullstack Developer, Coffee lover, Javascript and UX/UI fan, Performance curious, @angular studant. Currently in love with Angular and Nextjs Programming.</p>
 
 I currently work at Warlocks Tech [WARLOCKS](https://warlocks.tech/)
 
-I'm learning at the moment **Angular, ReactJS, Java e Banco de Dados**
+I'm learning at the moment **Angular, ReactJS, Java and Database**
 
 ### ⭐ Meus pontos fortes
 
