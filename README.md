@@ -36,7 +36,7 @@ I'm learning at the moment **Angular, ReactJS, Java e Banco de Dados**
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AninhaPardini&theme=transparent&bg_color=0001&border_color=FFF&show_icons=true&icon_color=FD7999&title_color=FD7999&text_color=FFF)
 ![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AninhaPardini&layout=compact&bg_color=0001&border_color=FFF&title_color=FD7999&text_color=FFF)
-[![GitHub Streak](https://streak-stats.demolab.com?user=AninhaPardini&theme=transparent&card_width=430&currStreakNum=FD7999&stroke=FD7999&fire=FD7999&sideNums=FD7999&ring=FD7999&currStreakLabel=FD7999&dates=EBCBDF&sideLabels=FD7999)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=AninhaPardini&theme=transparent&card_width=430&currStreakNum=FD7999&stroke=FD7999&fire=FD7999&sideNums=FD7999&ring=FD7999&currStreakLabel=FD7999&dates=EBCBDF&sideLabels=FD7999)](https://git.io/streak-stats) -->
 
 ## 💻 Todas as linguagens e ferramentas
 
