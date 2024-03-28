@@ -16,13 +16,13 @@ I'm learning at the moment **Angular, ReactJS, Java and Database**
 
 |    Soft skills    |        Liderança          |
 |-------------------|---------------------------|
-|  Resiliência      |  Gerenciamento de Equipe  |
-|  Flexibilidade    |  Método Ágil              |
-|  Comunicação      |  Scrum                    |
-|  Atitude positiva |  Pensamento crítico       |
-|  Criatividade     |  Resolução de Problemas   |
-|  Interpessoalidade|  Elaborar apresentações   |
-|  Empatia          |  Dominio no pacote office |
+|  Resilience       |  Team management          |
+|  Flexbility       |  Agile Method             |
+|  Communication    |  Scrum                    |
+|  Positive attitude|  Critical Thinking        |
+|  Creativity       |  Problem solving          |
+|  Interpersoality  |  Prepare presentations    |
+|  Empathy          |  Domain in Office Package |
 
 
 ## 🏗️ Main repositories
