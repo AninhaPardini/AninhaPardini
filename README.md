@@ -8,9 +8,11 @@
 
 <p align = "justify">Fullstack Developer, Coffee lover, Javascript and UX/UI fan, Performance curious, @angular studant. Currently in love with Angular and Nextjs Programming.</p>
 
-I currently work like UX UI Designer at [Niu Technology](https://niutechnology.com.br) & Front end developer at [Atmus Tecnologia](https://atmustecnologia.com.br/principal).
+I currently work like UX UI Designer at [Niu Technology](https://niutechnology.com.br) and Bytenana & Front end developer at [Atmus Tecnologia](https://atmustecnologia.com.br/principal).
 
 I'm learning at the moment **Angular, ReactJS, Java and Database**
+
+See [my blog](https://blog-chi-mocha.vercel.app) (in progress)
 
 ### ⭐ Soft skills
 
